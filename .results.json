@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-01-09T13:59:16.829Z",
-    "end": "2022-01-09T13:59:17.060Z",
-    "duration": 231
+    "start": "2022-04-26T13:45:02.695Z",
+    "end": "2022-04-26T13:45:03.164Z",
+    "duration": 469
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -80,7 +80,7 @@
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
